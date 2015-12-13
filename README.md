@@ -5,7 +5,7 @@ There are build photos in the images folder, but see the assembly guide on instr
 
 http://www.instructables.com/id/Building-a-PiCentr-Home-Media-Center/
 
-Description of the files:
+## Description of the files
 
 Left and right sides (laser cut from 3mm stock): piCentr-sides.svg	/ piCentr-sides.dxf	
 Front and back sides (laser cut from 3mm stock): picentr-frontback.svg	/ picentr-frontback.dxf	
